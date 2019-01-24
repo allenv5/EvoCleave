@@ -7,5 +7,5 @@ Usage
 * Radial Basis Kernel = 2
 * Sigmoid Kernel = 3
 * Precomputed Kernel = 4
-	
+
 Note: Java SE Runtime Environment 8 should be installed at least before usage.
